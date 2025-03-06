@@ -178,10 +178,10 @@ header .container i:hover{
 }
 @keyframes control-width {
     from {
-      width: 0;
+        width: 0;
     }
     to {
-      width: 205px;
+        width: 205px;
     }
   }
   @keyframes blink {
@@ -276,7 +276,7 @@ header .container i:hover{
 /* Mobail */
 @media (max-width: 767px)  {
       .landing .container #infoBox h3{
-          transform: translateX(-40px);
+          transform: translateX(80px);
       }
 }
 /* End landing page */
