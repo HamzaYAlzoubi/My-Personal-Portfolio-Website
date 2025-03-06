@@ -270,8 +270,14 @@ header .container i:hover{
         margin-bottom: 15px;
     }
     .landing .container #infoBox h3{
-        transform: translateX(100px);
+        transform: translateX(140px);
     }
+}
+/* Mobail */
+@media (max-width: 767px)  {
+      .landing .container #infoBox h3{
+          transform: translateX(80px);
+      }
 }
 /* End landing page */
 
