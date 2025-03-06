@@ -320,12 +320,15 @@ header .container i:hover{
     #servicesBox .Service{
         width: 100%;
     }
+    #Services .sectionHeader {
+        padding-top: 300px;
+    }
 }
 /* Medium */
 @media (max-width: 992px)  {
-      #Services .sectionHeader {
-          padding-top: 300px;
-      }
+    #Services .sectionHeader {
+        padding-top: 120px;
+    }
 
 }
 /* End Services */
