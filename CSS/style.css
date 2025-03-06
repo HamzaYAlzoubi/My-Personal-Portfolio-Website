@@ -276,7 +276,7 @@ header .container i:hover{
 /* Mobail */
 @media (max-width: 767px)  {
       .landing .container #infoBox h3{
-          transform: translateX(0px);
+          transform: translateX(-40px);
       }
 }
 /* End landing page */
